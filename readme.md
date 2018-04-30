@@ -1,5 +1,7 @@
 ## itg_tools
 
+*Note:* I have just been notified that there exists something even more useful than what I've written here: [SM2ITG](https://code.google.com/archive/p/sm2itg/downloads)
+
 This repo is for ITG (in the groove) related code that I write that I find useful,
 and maybe somehow other people will find it useful.
 
